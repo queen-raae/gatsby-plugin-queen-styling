@@ -1,6 +1,6 @@
 {
-  "name": "@raae/gatsby-plugin-starter",
-  "version": "1.4.0",
+  "name": "@raae/gatsby-plugin-queen-styling",
+  "version": "0.0.0",
   "author": "@raae",
   "description": "An awsome plugin from @raae that will solve all your problems 🤪",
   "keywords": [
@@ -16,13 +16,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/queen-raae/gatsby-plugin-starter.git"
+    "url": "git+https://github.com/queen-raae/gatsby-plugin-queen-styling.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/queen-raae/gatsby-plugin-starter/issues"
+    "url": "https://github.com/queen-raae/gatsby-plugin-queen-styling/issues"
   },
-  "homepage": "https://github.com/queen-raae/gatsby-plugin-starter#readme",
+  "homepage": "https://github.com/queen-raae/gatsby-plugin-queen-styling#readme",
   "devDependencies": {},
   "dependencies": {},
   "peerDependencies": {

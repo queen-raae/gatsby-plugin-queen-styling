@@ -2,7 +2,7 @@
   "name": "demo",
   "version": "1.0.0",
   "private": true,
-  "description": "@raae/gatsby-plugin-starter demo",
+  "description": "@raae/gatsby-plugin-queen-styling demo",
   "author": "@raae",
   "keywords": [
     "gatsby"
@@ -15,7 +15,7 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "@raae/gatsby-plugin-starter": "*",
+    "@raae/gatsby-plugin-queen-styling": "*",
     "gatsby": "4.1.4",
     "react": "17.0.2",
     "react-dom": "17.0.2"
