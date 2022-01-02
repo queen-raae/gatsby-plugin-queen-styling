@@ -1,0 +1,25 @@
+.gatsby-resp-image-wrapper {
+  border: var(--border-width) solid var(--color-secondary);
+  margin: 0.5em auto;
+}
+
+a .gatsby-resp-image-wrapper {
+  transition: all 0.15s ease-in-out;
+
+  &:hover {
+    border-color: var(--color-primary);
+  }
+}
+
+.gatsby-highlight {
+  border: var(--border-width) solid var(--color-secondary);
+  margin: 1em auto;
+
+  pre,
+  code {
+    margin: 0 !important;
+    background-color: transparent !important;
+    padding: 1em;
+    font-size: var(--font-size-code) !important;
+  }
+}

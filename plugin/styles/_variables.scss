@@ -14,8 +14,17 @@
   --color-text-contrast: #ffffff;
   --font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
     Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
-  --hover-brightness: 1.2;
+  --font-size-h1: 1.802rem;
+  --font-size-h2: 1.602rem;
+  --font-size-h3: 1.424rem;
+  --font-size-h4: 1.266rem;
+  --font-size-h5: 1.125rem;
+  --font-size-small: 0.772rem;
+  --font-size-code: 0.772rem;
+  --font-weight-h: 900;
   --line-height: 1.75;
+  --line-height-h: 1.3;
   --color-link: inherit;
   --color-button: var(--color-primary);
+  --hover-brightness: 1.2;
 }
