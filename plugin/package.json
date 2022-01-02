@@ -24,7 +24,11 @@
   },
   "homepage": "https://github.com/queen-raae/gatsby-plugin-queen-styling#readme",
   "devDependencies": {},
-  "dependencies": {},
+  "dependencies": {
+    "gatsby-plugin-sass": "5.4.0",
+    "plugin": "0.3.3",
+    "sass": "1.45.2"
+  },
   "peerDependencies": {
     "gatsby": "^3.0.0 || ^4.0.0"
   }
