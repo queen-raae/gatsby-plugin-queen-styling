@@ -2,7 +2,7 @@ html {
   font-size: calc(112.5% + 0.15vw);
   font-family: var(--font-family);
   font-weight: normal;
-  line-height: 1.75;
+  line-height: var(--line-height);
   color: var(--color-text-primary);
 }
 
@@ -51,8 +51,7 @@ h5 {
   font-size: 1.125rem;
 }
 
-small,
-.text_small {
+small {
   font-size: 0.833rem;
 }
 

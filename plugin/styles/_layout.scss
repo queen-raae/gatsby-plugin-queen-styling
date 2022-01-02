@@ -7,6 +7,7 @@ body {
   border-top: var(--border-width) solid var(--color-primary);
   padding: 0;
   margin: 0;
+  text-align: center;
 }
 
 main {
@@ -21,14 +22,7 @@ main {
     display: flex;
     flex-direction: column;
     justify-content: center;
-
-    > * > * {
-      max-width: 34rem;
-      margin-left: auto;
-      margin-right: auto;
-      padding: 0 1rem;
-      overflow: scroll;
-    }
+    text-align: left;
 
     > *:only-child {
       text-align: center;
@@ -49,17 +43,17 @@ main {
     }
   }
 
-  > header {
-    &:only-child {
-      text-align: center;
-    }
+  > * {
+    padding: 1em;
+  }
 
-    > * {
-      max-width: 34rem;
-      margin-left: auto;
-      margin-right: auto;
-      padding: 0 1rem;
-      overflow: scroll;
-    }
+  > header > *,
+  > section > *,
+  > footer > *,
+  > article > * > * {
+    max-width: 34rem;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: scroll;
   }
 }

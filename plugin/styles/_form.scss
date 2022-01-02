@@ -1,0 +1,75 @@
+input,
+label,
+select,
+textarea,
+button {
+  text-align: left;
+  display: inline-block;
+  font-size: inherit;
+  line-height: var(--line-height);
+  font-family: var(--font-family);
+}
+
+input[type="checkbox"],
+input[type="radio"] {
+  display: inline-block;
+}
+
+input[type="checkbox"] + label,
+input[type="radio"] + label {
+  display: inline-block;
+  font-weight: normal;
+  position: relative;
+  top: 1px;
+}
+
+input,
+select,
+textarea {
+  border: 2px solid var(--color-text-primary);
+  border-radius: var(--border-radius);
+  padding: 0.4rem 0.8rem;
+  background-color: var(--color-bg-primary);
+}
+
+input[readonly],
+textarea[readonly] {
+  background-color: var(--color-bg-secondary);
+}
+
+input:focus {
+  outline-color: var(--color-secondary);
+}
+
+label {
+  font-size: 0.8em;
+  font-weight: bold;
+}
+
+button {
+  text-decoration: none;
+  border: 2px solid var(--color-button);
+  border-radius: var(--border-radius);
+  background-color: var(--color-button);
+  color: var(--color-text-contrast);
+  font-weight: 600;
+  padding: 0.4rem 0.8rem;
+  line-height: var(--line-height);
+  font-family: var(--font-family);
+}
+
+button:hover {
+  filter: brightness(var(--hover-brightness));
+}
+
+input + button {
+  margin-left: 0.5em;
+}
+
+fieldset {
+  border: none;
+  display: inline-block;
+  label {
+    display: block;
+  }
+}

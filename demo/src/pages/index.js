@@ -15,6 +15,15 @@ const IndexPage = () => {
         </h1>
         <p>Amazing plugin that does all the things</p>
       </header>
+      <section>
+        <form>
+          <fieldset>
+            <label htmlFor="email">Your email address:</label>
+            <input id="email" name="email" type="email" required />
+            <button type="submit">Button</button>
+          </fieldset>
+        </form>
+      </section>
     </main>
   );
 };
