@@ -24,6 +24,6 @@ module.exports = {
         ],
       },
     },
-    `@raae/gatsby-plugin-queen-styling`,
+    `@raae/gatsby-theme-queen`,
   ],
 };

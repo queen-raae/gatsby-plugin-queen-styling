@@ -1,4 +1,4 @@
-# @raae/gatsby-plugin-queen-styling
+# @raae/gatsby-theme-queen
 
 > Amazing plugin that solves everything
 
@@ -8,18 +8,18 @@ Learn how to get the most out of Gatsby and **stay updated** on the plugin by [s
 
 ## How to install
 
-`npm install @raae/gatsby-plugin-queen-styling`
+`npm install @raae/gatsby-theme-queen`
 
 or
 
-`yarn add @raae/gatsby-plugin-queen-styling`
+`yarn add @raae/gatsby-theme-queen`
 
 ## How to use
 
 ```
 module.exports = {
   plugins: [
-    `@raae/gatsby-plugin-queen-styling`
+    `@raae/gatsby-theme-queen`
   ],
 }
 ```
@@ -40,7 +40,7 @@ To be able to have both the demo and plugin in the same repo we use [yarn worksp
 
 ### Do your thing
 
-Solve an [issue](https://github.com/queen-raae/gatsby-plugin-queen-styling/issues) or do something else!
+Solve an [issue](https://github.com/queen-raae/gatsby-theme-queen/issues) or do something else!
 
 ### Create a Pull Request
 
@@ -50,8 +50,8 @@ To get your changes merged into the project create a Pull Request from your fork
 
 ### Questions, Feedback and Suggestions
 
-If you have any questions, feedback or suggestions head on over to [discussions](https://github.com/queen-raae/gatsby-plugin-queen-styling/discussions).
+If you have any questions, feedback or suggestions head on over to [discussions](https://github.com/queen-raae/gatsby-theme-queen/discussions).
 
 ### Bugs
 
-If you find a bug please open an [issue](https://github.com/queen-raae/gatsby-plugin-queen-styling/issues) and/or create a pull request to fix it.
+If you find a bug please open an [issue](https://github.com/queen-raae/gatsby-theme-queen/issues) and/or create a pull request to fix it.

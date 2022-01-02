@@ -2,7 +2,7 @@
   "name": "demo",
   "version": "1.0.0",
   "private": true,
-  "description": "@raae/gatsby-plugin-queen-styling demo",
+  "description": "@raae/gatsby-theme-queen demo",
   "author": "@raae",
   "keywords": [
     "gatsby"
@@ -15,7 +15,7 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "@raae/gatsby-plugin-queen-styling": "*",
+    "@raae/gatsby-theme-queen": "*",
     "gatsby": "4.1.4",
     "gatsby-plugin-sharp": "4.4.0",
     "gatsby-remark-images": "6.4.0",

@@ -1,5 +1,5 @@
 {
-  "name": "@raae/gatsby-plugin-queen-styling",
+  "name": "@raae/gatsby-theme-queen",
   "version": "0.0.0",
   "author": "@raae",
   "description": "An awsome plugin from @raae that will solve all your problems 🤪",
@@ -16,13 +16,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/queen-raae/gatsby-plugin-queen-styling.git"
+    "url": "git+https://github.com/queen-raae/gatsby-theme-queen.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/queen-raae/gatsby-plugin-queen-styling/issues"
+    "url": "https://github.com/queen-raae/gatsby-theme-queen/issues"
   },
-  "homepage": "https://github.com/queen-raae/gatsby-plugin-queen-styling#readme",
+  "homepage": "https://github.com/queen-raae/gatsby-theme-queen#readme",
   "devDependencies": {},
   "dependencies": {
     "gatsby-plugin-sass": "5.4.0",

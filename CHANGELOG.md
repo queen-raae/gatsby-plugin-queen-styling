@@ -1,34 +1,34 @@
-# [1.4.0](https://github.com/queen-raae/gatsby-plugin-queen-styling/compare/v1.3.1...v1.4.0) (2021-11-22)
+# [1.4.0](https://github.com/queen-raae/gatsby-theme-queen/compare/v1.3.1...v1.4.0) (2021-11-22)
 
 ### Bug Fixes
 
-- clean up package.json ([a7b93fa](https://github.com/queen-raae/gatsby-plugin-queen-styling/commit/a7b93fa44abb7beebe131c140e0e47c67cbf11a7))
+- clean up package.json ([a7b93fa](https://github.com/queen-raae/gatsby-theme-queen/commit/a7b93fa44abb7beebe131c140e0e47c67cbf11a7))
 
 ### Features
 
-- add code of conduct, closes [#16](https://github.com/queen-raae/gatsby-plugin-queen-styling/issues/16) ([073f528](https://github.com/queen-raae/gatsby-plugin-queen-styling/commit/073f52827d32e672fa3e3ef9cab567030c762202))
-- add peer dependencies, closes [#15](https://github.com/queen-raae/gatsby-plugin-queen-styling/issues/15) ([c58473c](https://github.com/queen-raae/gatsby-plugin-queen-styling/commit/c58473c7151b6bfc55304c1b69d09b96dc39d935))
+- add code of conduct, closes [#16](https://github.com/queen-raae/gatsby-theme-queen/issues/16) ([073f528](https://github.com/queen-raae/gatsby-theme-queen/commit/073f52827d32e672fa3e3ef9cab567030c762202))
+- add peer dependencies, closes [#15](https://github.com/queen-raae/gatsby-theme-queen/issues/15) ([c58473c](https://github.com/queen-raae/gatsby-theme-queen/commit/c58473c7151b6bfc55304c1b69d09b96dc39d935))
 
-## [1.3.1](https://github.com/queen-raae/gatsby-plugin-queen-styling/compare/v1.3.0...v1.3.1) (2021-11-22)
+## [1.3.1](https://github.com/queen-raae/gatsby-theme-queen/compare/v1.3.0...v1.3.1) (2021-11-22)
 
 ### Bug Fixes
 
-- Correct utm_campaign in readme ([66d4956](https://github.com/queen-raae/gatsby-plugin-queen-styling/commit/66d4956ba6203de6da4f5d99a4cc37cd9cd91d4f))
+- Correct utm_campaign in readme ([66d4956](https://github.com/queen-raae/gatsby-theme-queen/commit/66d4956ba6203de6da4f5d99a4cc37cd9cd91d4f))
 
-# [1.3.0](https://github.com/queen-raae/gatsby-plugin-queen-styling/compare/v1.2.0...v1.3.0) (2021-11-21)
-
-### Features
-
-- automate prettier, closes [#11](https://github.com/queen-raae/gatsby-plugin-queen-styling/issues/11) ([#14](https://github.com/queen-raae/gatsby-plugin-queen-styling/issues/14)) ([c555128](https://github.com/queen-raae/gatsby-plugin-queen-styling/commit/c555128ba1190266c0ded1b8e6ba9b58e0b0a4b9))
-
-# [1.2.0](https://github.com/queen-raae/gatsby-plugin-queen-styling/compare/v1.1.0...v1.2.0) (2021-11-21)
+# [1.3.0](https://github.com/queen-raae/gatsby-theme-queen/compare/v1.2.0...v1.3.0) (2021-11-21)
 
 ### Features
 
-- add semantic release github plugin, closes [#10](https://github.com/queen-raae/gatsby-plugin-queen-styling/issues/10) ([34cf3ae](https://github.com/queen-raae/gatsby-plugin-queen-styling/commit/34cf3ae60eeb097568eaabaf154cf52411bd75e6))
+- automate prettier, closes [#11](https://github.com/queen-raae/gatsby-theme-queen/issues/11) ([#14](https://github.com/queen-raae/gatsby-theme-queen/issues/14)) ([c555128](https://github.com/queen-raae/gatsby-theme-queen/commit/c555128ba1190266c0ded1b8e6ba9b58e0b0a4b9))
 
-# [1.1.0](https://github.com/queen-raae/gatsby-plugin-queen-styling/compare/v1.0.0...v1.1.0) (2021-11-21)
+# [1.2.0](https://github.com/queen-raae/gatsby-theme-queen/compare/v1.1.0...v1.2.0) (2021-11-21)
 
 ### Features
 
-- semantic changelog closes [#7](https://github.com/queen-raae/gatsby-plugin-queen-styling/issues/7) ([#13](https://github.com/queen-raae/gatsby-plugin-queen-styling/issues/13)) ([a179c22](https://github.com/queen-raae/gatsby-plugin-queen-styling/commit/a179c2290c0f3ed9e373da91bfe0101cc4d46065))
+- add semantic release github plugin, closes [#10](https://github.com/queen-raae/gatsby-theme-queen/issues/10) ([34cf3ae](https://github.com/queen-raae/gatsby-theme-queen/commit/34cf3ae60eeb097568eaabaf154cf52411bd75e6))
+
+# [1.1.0](https://github.com/queen-raae/gatsby-theme-queen/compare/v1.0.0...v1.1.0) (2021-11-21)
+
+### Features
+
+- semantic changelog closes [#7](https://github.com/queen-raae/gatsby-theme-queen/issues/7) ([#13](https://github.com/queen-raae/gatsby-theme-queen/issues/13)) ([a179c22](https://github.com/queen-raae/gatsby-theme-queen/commit/a179c2290c0f3ed9e373da91bfe0101cc4d46065))
