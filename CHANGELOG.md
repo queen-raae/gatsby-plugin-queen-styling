@@ -1,3 +1,10 @@
+## [0.0.2](https://github.com/queen-raae/gatsby-theme-queen/compare/v0.0.1...v0.0.2) (2022-01-04)
+
+### Bug Fixes
+
+- not for the plugin directory ([b940bc8](https://github.com/queen-raae/gatsby-theme-queen/commit/b940bc86129c94237c4e72184113e7ddc739e39a))
+- update readme ([bd06a0b](https://github.com/queen-raae/gatsby-theme-queen/commit/bd06a0bb6c0b326349a6a88d25a1dc654df17fba))
+
 ## [0.0.1](https://github.com/queen-raae/gatsby-theme-queen/compare/v0.0.0...v0.0.1) (2022-01-04)
 
 ### Bug Fixes
