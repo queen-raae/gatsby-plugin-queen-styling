@@ -1,3 +1,9 @@
+## [0.0.1](https://github.com/queen-raae/gatsby-theme-queen/compare/v0.0.0...v0.0.1) (2022-01-04)
+
+### Bug Fixes
+
+- main min height ([f4b675f](https://github.com/queen-raae/gatsby-theme-queen/commit/f4b675fd53d307b1f80df34b34128325e2bca17f))
+
 # [1.4.0](https://github.com/queen-raae/gatsby-theme-queen/compare/v1.3.1...v1.4.0) (2021-11-22)
 
 ### Bug Fixes
