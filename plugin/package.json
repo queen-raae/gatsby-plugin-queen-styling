@@ -2,11 +2,8 @@
   "name": "@raae/gatsby-theme-queen",
   "version": "0.0.1",
   "author": "@raae",
-  "description": "An awsome plugin from @raae that will solve all your problems 🤪",
-  "keywords": [
-    "gatsby",
-    "gatsby-plugin"
-  ],
+  "description": "",
+  "keywords": [],
   "main": "index.js",
   "publishConfig": {
     "access": "public"
