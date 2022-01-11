@@ -1,3 +1,9 @@
+## [0.0.3](https://github.com/queen-raae/gatsby-theme-queen/compare/v0.0.2...v0.0.3) (2022-01-11)
+
+### Bug Fixes
+
+- show ordered list numbers ([161f177](https://github.com/queen-raae/gatsby-theme-queen/commit/161f17793dbbe1f978fb6c0adebadd1e60dc8d1d))
+
 ## [0.0.2](https://github.com/queen-raae/gatsby-theme-queen/compare/v0.0.1...v0.0.2) (2022-01-04)
 
 ### Bug Fixes
