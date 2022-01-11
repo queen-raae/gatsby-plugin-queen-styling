@@ -1,3 +1,13 @@
+# [0.1.0](https://github.com/queen-raae/gatsby-theme-queen/compare/v0.0.3...v0.1.0) (2022-01-11)
+
+### Bug Fixes
+
+- layout ([96dc9f6](https://github.com/queen-raae/gatsby-theme-queen/commit/96dc9f6a148cc97f4ae903792bcec25493a48131))
+
+### Features
+
+- sections grid ([4eb0b8e](https://github.com/queen-raae/gatsby-theme-queen/commit/4eb0b8e66c2084be2ab2220f778e688152dca2cc))
+
 ## [0.0.3](https://github.com/queen-raae/gatsby-theme-queen/compare/v0.0.2...v0.0.3) (2022-01-11)
 
 ### Bug Fixes
