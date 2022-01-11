@@ -1,3 +1,9 @@
+## [0.1.1](https://github.com/queen-raae/gatsby-theme-queen/compare/v0.1.0...v0.1.1) (2022-01-11)
+
+### Bug Fixes
+
+- section grid ([9059266](https://github.com/queen-raae/gatsby-theme-queen/commit/905926673588fffc1f0e63ed8a39fc66f61e267d))
+
 # [0.1.0](https://github.com/queen-raae/gatsby-theme-queen/compare/v0.0.3...v0.1.0) (2022-01-11)
 
 ### Bug Fixes
