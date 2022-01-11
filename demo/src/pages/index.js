@@ -57,7 +57,8 @@ const IndexPage = () => {
               allowfullscreen
             ></iframe>
           </div>
-
+        </article>
+        <article>
           <Link to="#">
             <img
               src="https://i.ytimg.com/vi/UGq8cnNTbwI/hqdefault.jpg"
