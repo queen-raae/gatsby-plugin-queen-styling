@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "gatsby";
 
 const IndexPage = () => {
   return (
@@ -42,6 +43,28 @@ const IndexPage = () => {
             <button type="submit">Button</button>
           </fieldset>
         </form>
+      </section>
+      <section>
+        <article>
+          <div className="video-container">
+            <iframe
+              width="560"
+              height="315"
+              src="https://www.youtube-nocookie.com/embed/Kldx6d5XBSE"
+              title="YouTube video player"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen
+            ></iframe>
+          </div>
+
+          <Link to="#">
+            <img
+              src="https://i.ytimg.com/vi/UGq8cnNTbwI/hqdefault.jpg"
+              alt="YouTubeThumbnail"
+            />
+          </Link>
+        </article>
       </section>
     </main>
   );

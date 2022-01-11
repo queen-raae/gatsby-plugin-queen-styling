@@ -18,6 +18,15 @@ a {
   &:hover {
     color: var(--color-accent);
   }
+
+  > img {
+    transition: all 0.15s ease-in-out;
+    border: var(--border-width) solid var(--color-secondary);
+
+    &:hover {
+      border-color: var(--color-primary);
+    }
+  }
 }
 
 h1,
