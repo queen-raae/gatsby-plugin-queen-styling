@@ -45,6 +45,9 @@ const IndexPage = () => {
         </form>
       </section>
       <section>
+        <header>
+          <h2>Videos</h2>
+        </header>
         <article>
           <div className="video-container">
             <iframe
@@ -57,6 +60,14 @@ const IndexPage = () => {
               allowfullscreen
             ></iframe>
           </div>
+        </article>
+        <article>
+          <Link to="#">
+            <img
+              src="https://i.ytimg.com/vi/UGq8cnNTbwI/hqdefault.jpg"
+              alt="YouTubeThumbnail"
+            />
+          </Link>
         </article>
         <article>
           <Link to="#">

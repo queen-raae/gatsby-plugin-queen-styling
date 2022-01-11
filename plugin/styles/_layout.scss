@@ -7,7 +7,6 @@ body {
   border-top: var(--border-width) solid var(--color-primary);
   padding: 0;
   margin: 0;
-  text-align: center;
 }
 
 main {
@@ -16,6 +15,7 @@ main {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  text-align: center;
 
   > * {
     // Add some side padding for smaller screens
@@ -68,14 +68,18 @@ main {
     justify-content: center;
     align-items: center;
 
+    img {
+      width: 100%;
+    }
+
     > * {
-      flex-basis: 33.3%;
-      flex-grow: 0;
-      margin: 0.5rem !important;
+      flex-basis: 25%;
+      min-width: 20rem;
+      margin: 1rem !important;
     }
 
     > header {
-      width: 100%;
+      min-width: 100%;
     }
   }
 
