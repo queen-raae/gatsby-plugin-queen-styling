@@ -1,3 +1,9 @@
+# [0.2.0](https://github.com/queen-raae/gatsby-theme-queen/compare/v0.1.1...v0.2.0) (2022-06-09)
+
+### Features
+
+- only styling, no md setup ([ff6a93a](https://github.com/queen-raae/gatsby-theme-queen/commit/ff6a93ab54ff0b425d0a9dc0df55d3b782d41a15))
+
 ## [0.1.1](https://github.com/queen-raae/gatsby-theme-queen/compare/v0.1.0...v0.1.1) (2022-01-11)
 
 ### Bug Fixes
